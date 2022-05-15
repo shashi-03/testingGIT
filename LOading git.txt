@@ -1,0 +1,9 @@
+install git bash 64 bit in system 
+allow all permission while downloading and use vim and bash.
+
+create git hub account and create git repo account and copy git http URL and copy it in git bash
+
+
+open folder D and press shift+ right click ----
+
+git clone + URL to load git repo in local
